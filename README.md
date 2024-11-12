@@ -1,6 +1,6 @@
 ### Hi there, I'm Patrick! 👋
 
-📊 Data Analyst in the making 📊 You can find me on [Analyst Builder](https://www.analystbuilder.com/u/patrick_caroprese?fbclid=PAZXh0bgNhZW0CMTEAAaaJxNVJOiJwkqlFUGpf32boVFrXXjb4xOj144xaZY62hfsryXHPiHV6Oy8_aem_Koh32rjN4FZEqOEHK_nBiw), on [LinkedIn](https://www.linkedin.com/in/patrick-caroprese/) and on [Instagram](https://www.instagram.com/patrick_caroprese/)<br/>
+📊 Data Analyst in the making 📊 You can find me on [Analyst Builder](https://www.analystbuilder.com/u/patrick_caroprese?fbclid=PAZXh0bgNhZW0CMTEAAaaJxNVJOiJwkqlFUGpf32boVFrXXjb4xOj144xaZY62hfsryXHPiHV6Oy8_aem_Koh32rjN4FZEqOEHK_nBiw), [LinkedIn](https://www.linkedin.com/in/patrick-caroprese/) and [Instagram](https://www.instagram.com/patrick_caroprese/)<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrick93caroprese&show_icons=true&theme=radical)
 
